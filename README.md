@@ -1,6 +1,6 @@
 # https://vistr.dev - A visitor counter for your GitHub projects
 
-![](https://vistr.dev/badge?repo=Elfocrash.visitr.dev)
+![](https://vistr.dev/badge?repo=Elfocrash.visitr.dev&color=0058AD)
 
 ## Usage
 
